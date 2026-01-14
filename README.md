@@ -35,7 +35,7 @@ A private, self-destructing chat room application built with Next.js, featuring 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/gery-guedegbe/realtime_chat_app.git>
 cd realtime_chat_app
 ```
 
